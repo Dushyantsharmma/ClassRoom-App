@@ -16,18 +16,17 @@ A React Native mobile application that helps students manage their courses, time
 Add your screenshot PNGs to the assets folder with these filenames (or adjust paths below if different). Each image is referenced relatively so it renders on GitHub.
 
 ### iPhone 15 Pro   
-  ![iPhone 15 Pro — Light](assets/iphone15pro.png)  
+![iPhone 15 Pro](assets/Iphone%2015%20Pro.png)
 
 ### Pixel 7  
-  ![Pixel 7 — Light](assets/pixel7.png)  
-
+![Pixel 7](assets/Pixel%207.png)
 
 ### iPad  
-  ![iPad — Light](assets/ipad.png)  
-
+![iPad](assets/iPad.png)
 
 ### Web    
-  ![Web — Light](assets/web.png)  
+![Web](assets/Web.png)
+
 - 
 
 > If your existing files are named differently (e.g., `assets/Iphone 15 Pro.png`, `assets/Pixel 7.png`, `assets/iPad.png`, `assets/Web.png`), either rename them to match the above or update the image paths accordingly.  
