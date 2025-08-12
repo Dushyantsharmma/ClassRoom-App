@@ -29,9 +29,6 @@ Add your screenshot PNGs to the assets folder with these filenames (or adjust pa
 
 - 
 
-> If your existing files are named differently (e.g., `assets/Iphone 15 Pro.png`, `assets/Pixel 7.png`, `assets/iPad.png`, `assets/Web.png`), either rename them to match the above or update the image paths accordingly.  
-> To keep the README compact, consider using a single “light” screenshot per platform if preferred.
-
 ## Installation & Setup
 
 1. Make sure you have Node.js and React Native CLI installed.  
@@ -61,33 +58,29 @@ npx react-native run-android
 npx react-native run-ios
 ```
 
-> Note: For iOS, you need a Mac with Xcode installed.
+Usage
+Use the toggle switch on the top right to switch between light and dark modes.
 
-## Usage
+Navigate between Home, Timetable, Study Material, Notifications, and Profile screens using buttons or bottom navigation.
 
-* Use the toggle switch on the top right to switch between light and dark modes.
-* Navigate between Home, Timetable, Study Material, Notifications, and Profile screens using buttons or bottom navigation.
-* Tap on study material links to open them in the browser.
+Tap on study material links to open them in the browser.
 
-## Technologies Used
+Technologies Used
+React Native
 
-* React Native
-* react-native-vector-icons (FontAwesome)
-* React Hooks (`useState`, `useEffect`)
-* React Native components: `FlatList`, `ScrollView`, `TouchableOpacity`, `Switch`, `Image`
+react-native-vector-icons (FontAwesome)
 
-## Live Demo
+React Hooks (useState, useEffect)
 
-You can try out a live, interactive version of the Classroom App on [Expo Snack](https://snack.expo.dev/@trippin/classroom-app). This lets you run the app directly in your browser or on your device using the Expo Go app without any local setup.
+React Native components: FlatList, ScrollView, TouchableOpacity, Switch, Image
 
-[Open Classroom App on Expo Snack](https://snack.expo.dev/@trippin/classroom-app)
+Live Demo
+You can try out a live, interactive version of the Classroom App on Expo Snack. This lets you run the app directly in your browser or on your device using the Expo Go app without any local setup.
 
-## Contributing
+Open Classroom App on Expo Snack
 
+Contributing
 Feel free to fork the repo, create issues, or submit pull requests to improve the app.
 
-## License
-
+License
 This project is open source and available under the MIT License.
-
----
