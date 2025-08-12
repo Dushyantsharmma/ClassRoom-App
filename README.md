@@ -79,5 +79,3 @@ Feel free to fork the repo, create issues, or submit pull requests to improve th
 This project is open source and available under the MIT License.
 
 ---
-
-Let me know if you want me to help with pushing this updated README to your GitHub repo!
