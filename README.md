@@ -1,33 +1,46 @@
-Sure! Here’s your full README with the **Live Demo** section added about the Snack link:
-
----
-
 # Classroom App
 
 A React Native mobile application that helps students manage their courses, timetable, study materials, notifications, and profiles. The app supports light and dark modes for better usability in different lighting environments.
 
 ## Features
 
-* View list of courses with details (teacher, schedule, icon)
-* View class timetable
-* Access study materials with external links
-* View notifications
-* View profiles of students
-* Toggle between light and dark mode UI themes
+- View list of courses with details (teacher, schedule, icon)
+- View class timetable
+- Access study materials with external links
+- View notifications
+- View profiles of students
+- Toggle between light and dark mode UI themes
 
 ## Screenshots
 
-*(Add screenshots of your app here for both light and dark modes)*
+Add your screenshot PNGs to the assets folder with these filenames (or adjust paths below if different). Each image is referenced relatively so it renders on GitHub.
+
+### iPhone 15 Pro   
+  ![iPhone 15 Pro — Light](assets/iphone15pro.png)  
+
+### Pixel 7  
+  ![Pixel 7 — Light](assets/pixel7.png)  
+
+
+### iPad  
+  ![iPad — Light](assets/ipad.png)  
+
+
+### Web    
+  ![Web — Light](assets/web.png)  
+- 
+
+> If your existing files are named differently (e.g., `assets/Iphone 15 Pro.png`, `assets/Pixel 7.png`, `assets/iPad.png`, `assets/Web.png`), either rename them to match the above or update the image paths accordingly.  
+> To keep the README compact, consider using a single “light” screenshot per platform if preferred.
 
 ## Installation & Setup
 
-1. Make sure you have [Node.js](https://nodejs.org/) and React Native CLI installed.
-2. Clone this repository:
-
+1. Make sure you have Node.js and React Native CLI installed.  
+2. Clone this repository:  
 ```bash
 git clone https://github.com/Dushyantsharmma/ClassRoom-App.git
 cd ClassRoom-App
-```
+
 
 3. Install dependencies:
 
